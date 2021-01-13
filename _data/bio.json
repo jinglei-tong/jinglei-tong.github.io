@@ -27,26 +27,24 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "jingleitong",
+        "url": "http://twitter.com/jingleitong"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering ",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "sustainability ",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "traveling",
       "keywords": [
       ]
     },
